@@ -10,10 +10,6 @@ Aplicativo em que o usuário escolhe entre **tema claro e tema escuro**, e o app
 
 Exercício aplicado em sala de aula, usado como prática guiada com os alunos.
 
-## Versão em Java
-
-Esta mesma aplicação também foi desenvolvida em **Java**: [AppEscolherTemaJava](https://github.com/fabcurvello/AppEscolherTemaJava). Comparar as duas versões lado a lado ajuda a entender as diferenças de sintaxe entre Java e Kotlin no Android.
-
 ## O que o app faz
 
 - Botões **Claro** e **Escuro** para trocar o tema do app.
@@ -46,7 +42,6 @@ Esta mesma aplicação também foi desenvolvida em **Java**: [AppEscolherTemaJav
 
 Outros repositórios de aula com o mesmo tema:
 
-- [AppEscolherTemaJava](https://github.com/fabcurvello/AppEscolherTemaJava)
 - [AppEscolherTema2Java](https://github.com/fabcurvello/AppEscolherTema2Java)
 - [AppEscolherTema2Kotlin](https://github.com/fabcurvello/AppEscolherTema2Kotlin)
 
